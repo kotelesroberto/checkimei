@@ -7,7 +7,7 @@ This snippet is for checking IMEI if it was valid.
 
 1. Import library
 ```
-import CheckImei from '../../js/widgets/check-imei.js';
+import CheckImei from 'check-imei.js';
 ```
 
 2. Create instance

@@ -1,5 +1,6 @@
 /**
  * Widget script for Validating IMEI
+ * Robert Koteles, Senior Web Developer, 2019
  */
 
 
